@@ -1214,6 +1214,7 @@ Signed,
 - Andrey Mukamolow ([@fobo66](https://github.com/fobo66)), Android Developer, Belarus
 - Robin Cussol ([@RobinCsl](https://github.com/RobinCsl)), JavaScript Developer, Czech Republic
 - Edditoria ([@edditoria](https://github.com/Edditoria)), Developer, Hong Kong
+- Hughie ([@edditoria](https://github.com/Edditoria)), Developer, Hong Kong
 - Kerry M-R ([@kamikkels](https://github.com/kamikkels)), Software Developer, Australia
 - Sendhilkumaran ([@sendhilpk](https://github.com/sendhilpk)), Software Developer, India
 - DeflatedPickle ([@DeflatedPickle](https://github.com/DeflatedPickle)), Developer
